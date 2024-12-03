@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/gra_planszowa.csproj": {}
+  },
+  "projects": {
+    "/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/gra_planszowa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/gra_planszowa.csproj",
+        "projectName": "gra_planszowa",
+        "projectPath": "/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/gra_planszowa.csproj",
+        "packagesPath": "/home/olekm/.nuget/packages/",
+        "outputPath": "/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/olekm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

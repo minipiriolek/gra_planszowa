@@ -1,0 +1,14 @@
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/bin/Debug/net8.0/gra_planszowa
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/bin/Debug/net8.0/gra_planszowa.deps.json
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/bin/Debug/net8.0/gra_planszowa.runtimeconfig.json
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/bin/Debug/net8.0/gra_planszowa.dll
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/bin/Debug/net8.0/gra_planszowa.pdb
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/gra_planszowa.GeneratedMSBuildEditorConfig.editorconfig
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/gra_planszowa.AssemblyInfoInputs.cache
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/gra_planszowa.AssemblyInfo.cs
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/gra_planszowa.csproj.CoreCompileInputs.cache
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/gra_planszowa.dll
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/refint/gra_planszowa.dll
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/gra_planszowa.pdb
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/gra_planszowa.genruntimeconfig.cache
+/home/olekm/RiderProjects/gra_planszowa/gra_planszowa/obj/Debug/net8.0/ref/gra_planszowa.dll
